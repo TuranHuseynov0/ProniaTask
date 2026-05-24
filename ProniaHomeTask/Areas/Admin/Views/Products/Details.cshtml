@@ -1,0 +1,80 @@
+﻿@model ProniaHomeTask.Models.Product
+
+@{
+    ViewData["Title"] = "Məhsulun Detalları";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-secondary fw-bold">Məhsul Detalları</h2>
+        <a asp-action="Index" class="btn btn-outline-secondary shadow-sm">
+            <i class="bi bi-arrow-left-circle me-1"></i> Siyahıya Qayıt
+        </a>
+    </div>
+
+    <div class="card shadow-sm border-0 rounded">
+        <div class="card-header bg-dark text-white py-3">
+            <h5 class="mb-0 fw-semibold">
+                <i class="bi bi-info-circle me-2"></i>Məhsulun Tam Göstəriciləri
+            </h5>
+        </div>
+
+        <div class="card-body p-4 bg-white">
+            <div class="row g-4 align-items-center">
+                <div class="col-md-4 text-center border-end">
+                    @if (!string.IsNullOrEmpty(Model.ImgUrl))
+                    {
+                        <img src="~/@Model.ImgUrl" alt="@Model.Name" class="img-fluid img-thumbnail rounded shadow-sm" style="max-height: 250px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <div class="bg-light text-muted d-flex align-items-center justify-content-center rounded border shadow-sm mx-auto" style="height: 220px; max-width: 220px;">
+                            <div>
+                                <i class="bi bi-image fs-1 d-block mb-1 text-secondary"></i>
+                                <span class="small">Şəkil yoxdur</span>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-8">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped align-middle mb-0">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 25%;" class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Name)</th>
+                                    <td class="fw-bold text-dark fs-5">@Html.DisplayFor(model => model.Name)</td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Price)</th>
+                                    <td>
+                                        <span class="badge bg-light text-success border border-success-subtle px-3 py-2 fs-6 fw-bold">
+                                            $@Html.DisplayFor(model => model.Price)
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Description)</th>
+                                    <td class="text-muted lh-base">@Html.DisplayFor(model => model.Description)</td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-light fw-bold text-secondary">Mənbə Linki</th>
+                                    <td class="small text-break text-primary">@Html.DisplayFor(model => model.ImgUrl)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-4 text-muted" />
+
+            <div class="d-flex justify-content-end gap-2">
+                <a asp-action="Index" class="btn btn-light px-4 border">Siyahıya Dön</a>
+                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary px-5 shadow-sm">
+                    <i class="bi bi-pencil-square me-1"></i> Redaktə Et
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

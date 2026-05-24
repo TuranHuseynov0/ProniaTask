@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Giriş qadağandır";
+}
+
+<main class="main-content">
+    <div class="container section-space-y-axis-100 text-center">
+        <h2 class="mb-3">Bu səhifəyə giriş icazəniz yoxdur</h2>
+        <p class="text-muted mb-4">Admin panelə yalnız Admin rolundakı istifadəçilər daxil ola bilər.</p>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary me-2">Ana səhifə</a>
+        <a asp-controller="Account" asp-action="Login" class="btn btn-outline-secondary">Daxil ol</a>
+    </div>
+</main>

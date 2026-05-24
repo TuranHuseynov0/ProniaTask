@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\controllers\\_404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\controllers\\_404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|c:\\users\\victus\\source\\repos\\proniahometask\\proniahometask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81B82E0-AC89-406B-A2B8-4924334419FF}|ProniaHomeTask\\ProniaHomeTask.csproj|solutionrelative:proniahometask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:54:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:45:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:45:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:45:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwD0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:45:06.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAANYAAAAAAAAAAAAjwOkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:40:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABEBAAAAAAAAAAAjwCMBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:40:27.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:39:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Product.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:43:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:40:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Program.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:35:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:47:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:53:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProniaHomeTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-24T16:39:05.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "ProniaHomeTask\\ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:30:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowHwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:09:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAPcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:08:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:08:25.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T15:47:06.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAIwAgBAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T15:47:03.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:08:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ProniaHomeTask\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:00:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:42:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAK4HAAAAAAAAAAAAAMMHAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:09:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:15:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:15:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\_404\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\_404\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\_404\\Index.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\_404\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:09:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_404Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\_404Controller.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Controllers\\_404Controller.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Controllers\\_404Controller.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Controllers\\_404Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:09:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProniaHomeTask\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T15:48:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:44:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ProniaHomeTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:42:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaHomeTask\\DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:38:24.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaHomeTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\ProniaHomeTask\\ProniaHomeTask\\appsettings.json",
+              "RelativeToolTip": "ProniaHomeTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T15:35:22.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+﻿@model ProniaHomeTask.Models.Product
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-danger fw-bold">Məhsulun Silinməsi</h2>
+        <a asp-action="Index" class="btn btn-outline-secondary shadow-sm">
+            <i class="bi bi-arrow-left-circle me-1"></i> Siyahıya Qayıt
+        </a>
+    </div>
+
+    <div class="alert alert-warning d-flex align-items-center shadow-sm mb-4" role="alert">
+        <i class="bi bi-exclamation-triangle-fill flex-shrink-0 me-3 fs-4 text-danger"></i>
+        <div>
+            <h5 class="alert-heading mb-1 fw-bold text-dark">Diqqət! Bu məlumatı silmək istədiyinizdən əminsiniz?</h5>
+            <p class="mb-0 text-muted small">Bu əməliyyat geri qaytarıla bilməz.</p>
+        </div>
+    </div>
+
+    <div class="card shadow-sm border-0 rounded">
+        <div class="card-header bg-dark text-white py-3">
+            <h5 class="mb-0 fw-semibold">
+                <i class="bi bi-trash me-2"></i>Məhsulun Detalları
+            </h5>
+        </div>
+
+        <div class="card-body p-4 bg-white">
+            <div class="row g-4 align-items-center">
+                <div class="col-md-3 text-center border-end">
+                    @if (!string.IsNullOrEmpty(Model.ImgUrl))
+                    {
+                        <img src="~/@Model.ImgUrl" alt="@Model.Name" class="img-fluid img-thumbnail rounded shadow-sm" style="max-height: 200px; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <div class="bg-light text-muted d-flex align-items-center justify-content-center rounded border shadow-sm" style="height: 180px;">
+                            <div>
+                                <i class="bi bi-image fs-1 d-block mb-1 text-secondary"></i>
+                                <span class="small">Şəkil yoxdur</span>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-9">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped align-middle mb-0">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 30%;" class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Name)</th>
+                                    <td class="fw-semibold text-dark">@Html.DisplayFor(model => model.Name)</td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Price)</th>
+                                    <td>
+                                        <span class="badge bg-light text-dark border px-2 py-1 fs-6">
+                                            $@Html.DisplayFor(model => model.Price)
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-light fw-bold text-secondary">@Html.DisplayNameFor(model => model.Description)</th>
+                                    <td class="text-muted">@Html.DisplayFor(model => model.Description)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-4 text-muted" />
+
+            <div class="d-flex justify-content-end gap-2">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" />
+                    <a asp-action="Index" class="btn btn-light px-4 border">Ləğv Et</a>
+                    <button type="submit" class="btn btn-danger px-5 shadow-sm">
+                        <i class="bi bi-trash-fill me-1"></i> Bəli, Sil
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

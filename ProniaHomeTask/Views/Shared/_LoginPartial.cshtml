@@ -1,0 +1,36 @@
+@using Microsoft.AspNetCore.Identity
+@using ProniaHomeTask.Helpers
+@using ProniaHomeTask.Models
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    var user = await UserManager.GetUserAsync(User);
+    <li>
+        <span class="dropdown-item-text small text-muted">
+            Salam, @(user?.FullName ?? user?.Email)
+        </span>
+    </li>
+    @if (User.IsInRole(AppRoles.Admin))
+    {
+        <li>
+            <a class="dropdown-item" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin panel</a>
+        </li>
+    }
+    <li>
+        <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+            @Html.AntiForgeryToken()
+            <button type="submit" class="dropdown-item">Çıxış</button>
+        </form>
+    </li>
+}
+else
+{
+    <li>
+        <a class="dropdown-item" asp-controller="Account" asp-action="Login">Daxil ol</a>
+    </li>
+    <li>
+        <a class="dropdown-item" asp-controller="Account" asp-action="Register">Qeydiyyat</a>
+    </li>
+}
